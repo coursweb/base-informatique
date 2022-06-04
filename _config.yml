@@ -1,0 +1,16 @@
+remote_theme: coursweb/jk-theme
+title: Bases en informatique 
+description: Matériel didactique pour formation sur les bases informatiques
+lang: fr-FR
+chapters:
+ - title: Cours-web
+   url: https://cours-web.ch/
+ - title: Bases en informatique
+   url: https://cours-web.ch/informatique-base/
+
+   # Footer content
+# Content is split in three columns.   
+footer_col_1: <ul class="contact-list">
+  <li>Eracom, Lausanne</li>
+  <li>2017–2022</li></ul>
+footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/coursweb/informatique-base">Lien Github</a></li></ul>
