@@ -39,6 +39,8 @@ Stockage iCloud vs stockage sur le disque (comment solutionner le cas d'un Macbo
 
 Savoir transmettre un fichier, choisir la bonne méthode en fonction de la taille. Usage de Dropbox / NextCloud / GoogleMicrosoftOneBoxDriveCloud / Etc.  
 
+Voir aussi: Outils > [Stockage de données](https://cours-web.ch/outils/cloudstorage.html)
+
 ## Sauvegardes
 
 Sauvegarde: TimeMachine, Backblaze... 
