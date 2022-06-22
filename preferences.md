@@ -12,7 +12,7 @@ Les dossiers des préférences (Utilisateur et Système).
 
 Comment les rendre visible dans son OS. 
 
-Sous MacOS: Cmd-Maj-Point 😀 
+Sous MacOS: Cmd-Maj-Point
 
 Repertoires UNIX usuels 
 
