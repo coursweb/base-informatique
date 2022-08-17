@@ -10,6 +10,14 @@ Utiliser le clavier. Raccourcis clavier. Trouver les combinaisons de touche pour
 
 [https://support.apple.com/fr-ch/HT201236](https://support.apple.com/fr-ch/HT201236)
 
+Connaître les raccourcis du Finder pour naviguer dans l'arborescence des dossiers.
+
+
+
+- Commande + Flèche vers le haut : remonter dans l'arborescence par rappot au dossier actuel.
+
+- Commande + Barre d’espace : afficher ou masquer le champ de recherche Spotlight.
+
 ## Raccourcis Apple et claviers PC
 
 Comment faire fonctionner certains raccourcis d'application si on a un clavier non-Apple ?
