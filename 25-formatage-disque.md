@@ -10,8 +10,13 @@ Formater un disque externe. Clé USB, carte mémoire, disque dur, SSD...
 
 IMPORTANT : Le reformatage d'un disque efface toutes les données présentes sur celui-ci.
 
+### Formats Apple
+
 - **Apple File System (APFS)** : Le système de fichiers utilisé par macOS 10.13 ou ultérieur. À privilégier avec macOS, sur les disques internes des Mac et les disques externes USB que vous n'utiliserez que sur Mac.
 - **Mac OS étendu (HFS+)** : Le système de fichiers utilisé par macOS 10.12 ou antérieur.
+
+### Formats compatibles Windows
+
 - **FAT, FAT32, ExFAT, NTFS** : Les systèmes de fichiers qui sont compatibles avec Windows.
 - **FAT** : ce format très ancien ne peut être utilisé que sur des dispositifs de stockage de faible capacité, de 2 Go maximum. On le retrouve sur de vieilles clés USB ou cartes mémoire, souvent formatées en FAT. Au-delà de 2 Go, FAT32 et exFAT ont pris la relève.
 - **FAT32** : bien que vieillissant, c'est le format le plus universel, en particulier pour les supports amovibles. Il peut être lu et écrit par les PC, les Mac, Linux, les appareils photo numériques, les TV, les consoles de jeux, les box Internet, les smartphones... Principales restrictions : **un fichier ne peut dépasser 4 Go**, ce qui est contraignant pour créer ou lire de grosses vidéos en haute définition, et la partition sur le disque ne peut excéder 2 To. Préférez-lui ExFAT quand c'est possible.

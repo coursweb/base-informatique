@@ -19,3 +19,10 @@ Composantes d'un ordinateur.
 
 - Allocation de Mémoire RAM et applications Adobe 
 
+## Connectique
+
+Les types de connectique
+
+- USB Type-C
+- Lightning
+- HDMI
