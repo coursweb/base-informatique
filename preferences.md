@@ -19,3 +19,11 @@ Repertoires UNIX usuels
 Réinitialiser les réglages d’une application, en déplaçant le dossier des préférences sur le bureau. 
 
 Installer une fonte. Désinstaller. Savoir où se trouve le dossier des fontes utilisateur. 
+
+## Dossiers des éléments de démarrage
+
+- Vérifier les éléments de démarrage, en inspectant les dossiers suivants:
+
+- ~/Library/LaunchAgents
+- /Library/LaunchAgents
+- /Library/LaunchDaemons
