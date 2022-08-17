@@ -25,5 +25,5 @@ Installer une fonte. Désinstaller. Savoir où se trouve le dossier des fontes u
 - Vérifier les éléments de démarrage, en inspectant les dossiers suivants:
 
 - ~/Library/LaunchAgents
-- /Library/LaunchAgents
-- /Library/LaunchDaemons
+- /Library/LaunchAgents : sont lancés quand un utilisateur se connecte.
+- /Library/LaunchDaemons : sont lancés au démarrage du système, avant qu'un utilisateur se connecte.
