@@ -25,4 +25,6 @@ Les types de connectique
 
 - USB Type-C
 - Lightning
+- Thunderbolt
 - HDMI
+- Firewire
