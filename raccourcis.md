@@ -12,9 +12,7 @@ Utiliser le clavier. Raccourcis clavier. Trouver les combinaisons de touche pour
 
 Connaître les raccourcis du Finder pour naviguer dans l'arborescence des dossiers.
 
-
-
-- Commande + Flèche vers le haut : remonter dans l'arborescence par rappot au dossier actuel.
+![Raccourcis de navigation](img/navigation-finder.png)
 
 - Commande + Barre d’espace : afficher ou masquer le champ de recherche Spotlight.
 
