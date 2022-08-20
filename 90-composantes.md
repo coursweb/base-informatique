@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ordinateur
-permalink: ordinateur.html
+title: Hardware
+permalink: hardware.html
 ---
 
 Fonctionnement d'un ordinateur
