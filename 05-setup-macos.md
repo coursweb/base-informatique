@@ -1,6 +1,11 @@
 setup macos
+---
+layout: page
+title: Setup macOS
+permalink: setup-macos.html
+---
 
-Configurations à faire sur un système macos
+Configurations initiales à faire sur un système macOS.
 
 ### Changer le nom du disque principal:
 
@@ -20,7 +25,7 @@ voir: [Modifier le nom ou le nom d’hôte local de votre ordinateur sur Mac](ht
 3. Saisissez un nouveau nom dans le champ **Nom de l’ordinateur**.
 
 
-## Définir quel type de fichier s'ouvre avec quel logiciel.
+### Définir quel type de fichier s'ouvre avec quel logiciel.
 
 - sélectionner un fichier, faire cmd-I (Fichier > lire les informations)
 - dans Ouvrir avec, choisir l'application voulue.
