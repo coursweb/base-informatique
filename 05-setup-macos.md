@@ -1,4 +1,3 @@
-setup macos
 ---
 layout: page
 title: Setup macOS
