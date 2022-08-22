@@ -14,15 +14,10 @@ Selon Wikipédia:
 
 Autres usages classiques, partagés par de nombreux logiciels :
 
-Effectuer une recherche : Cmd-F
-
-Insérer un hyperlien : Cmd-K
-
-Copier l'URL de la page actuelle dans un navigateur:
-
-Cmd-L (sélectionner le champ), Cmd-C (copier l'URL)
-
-
+- Effectuer une recherche : Cmd-F
+- Insérer un hyperlien : Cmd-K
+- Copier l'URL de la page actuelle dans un navigateur:
+- Cmd-L (sélectionner le champ), Cmd-C (copier l'URL)
 
 ## Liste des raccourcis MacOS:
 
@@ -32,7 +27,13 @@ Connaître les raccourcis du Finder pour naviguer dans l'arborescence des dossie
 
 ![Raccourcis de navigation](img/navigation-finder.png)
 
+Autres raccourcis à connaître:
+
 - Commande + Barre d’espace : afficher ou masquer le champ de recherche Spotlight.
+- Commande + Tab : basculer entre les applications ouvertes
+
+Les raccourcis de capture d'écran (et les options de capture d'écran)
+
 
 ## Raccourcis Apple et claviers PC
 
