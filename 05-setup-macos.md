@@ -30,7 +30,7 @@ voir: [Modifier le nom ou le nom d’hôte local de votre ordinateur sur Mac](ht
 - dans Ouvrir avec, choisir l'application voulue.
 - cliquer sur le bouton "Tout modifier..." et confirmer.
 
-### Configurer les captures d'écran
+### Configurer les captures d'écran
 
 - Définir dans quel dossier elles sont enregistrées.
 - Changer le comportement (p.ex. clipboard au lieu de fichier)
