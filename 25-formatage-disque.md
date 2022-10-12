@@ -12,8 +12,8 @@ IMPORTANT : Le reformatage d'un disque efface toutes les données présentes sur
 
 ### Formats Apple
 
-- **Apple File System (APFS)** : Le système de fichiers utilisé par macOS 10.13 ou ultérieur. À privilégier avec macOS, sur les disques internes des Mac et les disques externes USB que vous n'utiliserez que sur Mac.
-- **Mac OS étendu (HFS+)** : Le système de fichiers utilisé par macOS 10.12 ou antérieur.
+- **Apple File System (APFS)** : Le système de fichiers utilisé par macOS 10.13 ou ultérieur (High Sierra, sorti en 2017). À privilégier avec macOS, sur les disques internes des Mac et les disques externes USB que vous n'utiliserez que sur Mac.
+- **Mac OS étendu (HFS+)** : Le système de fichiers utilisé par macOS 10.12 ou antérieur (Mac OS Sierra, sorti en 2016).
 
 ### Formats compatibles Windows
 
