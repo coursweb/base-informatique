@@ -10,6 +10,10 @@ FileVault
 
 Mot de passe utilisateur 
 
+Sur la sécurité des mots-de passe:
+
+![](img/password-safety.jpg)
+
 Utilisation de Keychain, generateur et gestionneur des mot de passe MacOS 
 
 Securisation iCloud, gMail etc. 2FA 
