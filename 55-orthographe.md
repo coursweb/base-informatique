@@ -4,7 +4,7 @@ title: Orthographe
 permalink: orthographe.html
 ---
 
-## Correcteurs d'orthographe
+## Correcteurs d'orthographe :)
 
 Quelques choix suggérés :
 
