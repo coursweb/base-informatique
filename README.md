@@ -8,5 +8,5 @@ Dans une discussion lors de la sectorielle ID du 27 janvier 2022, des enseignant
 
 Ce support vise à être intégré en filière ID dans les cours de premier semestre:
 
-- Pour les classes plein-temps: dans le cours Projet interface.
+- Pour les classes plein-temps: dans le cours **Informatique - Outils** (ID-AP-INFO).
 - Pour les classes duales: dans le travail en entreprise formatrice.
